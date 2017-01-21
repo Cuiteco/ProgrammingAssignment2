@@ -1,7 +1,3 @@
-## Este comentario servira para ver si lo estoy salvando en el Repositorio
-## Adecuado
-
-## Write a short comment describing this function
 ## This is the Assigment 2 for R programming course
 ## Objective: To calculate the inverse of matrix in cache
 ## Modify by Edith Reyes Loya
@@ -22,7 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 ## This function computes the inverse of matrix that was returned by
 ## the function makeCacheMatrix
 ## If the inverse of matrix was already calculated then return the
